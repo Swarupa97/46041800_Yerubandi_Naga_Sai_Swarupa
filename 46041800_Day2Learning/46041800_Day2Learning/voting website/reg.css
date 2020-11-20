@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:url(reg3.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family:sans-serif;
+}
